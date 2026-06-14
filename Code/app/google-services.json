@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "747364872165",
+    "firebase_url": "https://iot-pccc-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iot-pccc-app",
+    "storage_bucket": "iot-pccc-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747364872165:android:3ae51410bda5389ab5090c",
+        "android_client_info": {
+          "package_name": "com.example.iot_pccc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7rAwu8LLQNXR-S1SoArNeEWoiFOUbhuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
